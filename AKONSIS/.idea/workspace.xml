@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f6d09a4-1e3c-426e-9bf8-d4d3366b7fee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonFirebasePHPCronNotificationWebService.php" beforeDir="false" afterPath="$PROJECT_DIR$/PythonFirebasePHPCronNotificationWebService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arduino/google-service-account.json" beforeDir="false" afterPath="$PROJECT_DIR$/arduino/google-service-account.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/firebase_config.js" beforeDir="false" afterPath="$PROJECT_DIR$/include/firebase_config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/konteyner-harita.php" beforeDir="false" afterPath="$PROJECT_DIR$/konteyner-harita.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rota.php" beforeDir="false" afterPath="$PROJECT_DIR$/rota.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tum-konteyner-harita.php" beforeDir="false" afterPath="$PROJECT_DIR$/tum-konteyner-harita.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/panel/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-293417076">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="6" />
+          <entry key="project.open.time.18" value="8" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="10" />
+          <entry key="php" value="19697" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="10" />
+          <entry key="PHP" value="19697" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="7" />
+          <entry key="html" value="2" />
+          <entry key="js" value="6" />
+          <entry key="less" value="1" />
+          <entry key="map" value="1" />
+          <entry key="php" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="7" />
+          <entry key="HTML" value="2" />
+          <entry key="JavaScript" value="6" />
+          <entry key="Less" value="1" />
+          <entry key="PHP" value="29" />
+          <entry key="SourceMap" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="69185159">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="144" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="144" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LICENSE" value="1" />
+          <entry key="json" value="2" />
+          <entry key="php" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="2" />
+          <entry key="PHP" value="9" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AKILLICOPKONTEYNERIBILGISISTEMI" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino/vendor/autoload.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/token-generator/LICENSE">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/token-generator/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-231" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/php-jwt/src/BeforeValidException.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/php-jwt/src/ExpiredException.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/php-jwt/src/JWT.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3366" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/php-jwt/src/SignatureInvalidException.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arduino/vendor/composer/installed.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-990" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/arduino/vendor/composer/ClassLoader.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>],</find>
+      <find>consol</find>
+      <find>chat</find>
+      <find>.toString()</find>
+      <find>deneme</find>
+      <find>console</find>
+      <find>API</find>
+      <find>setMap</find>
+      <find>location</find>
+      <find>zz</find>
+      <find>ee</find>
+      <find>dd</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>jsonRoute</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/google_maps.js" />
+        <option value="$PROJECT_DIR$/include/main.js" />
+        <option value="$PROJECT_DIR$/include/firebase_config.js" />
+        <option value="$PROJECT_DIR$/index6.php" />
+        <option value="$PROJECT_DIR$/index2.php" />
+        <option value="$PROJECT_DIR$/panel/index.html" />
+        <option value="$PROJECT_DIR$/panel/includeTemplate/footer.php" />
+        <option value="$PROJECT_DIR$/panel/includeTemplate/header.php" />
+        <option value="$PROJECT_DIR$/panel/index.php" />
+        <option value="$PROJECT_DIR$/panel/includeTemplate/sagpanel.php" />
+        <option value="$PROJECT_DIR$/panel/includeTemplate/menu.php" />
+        <option value="$PROJECT_DIR$/deneme.html" />
+        <option value="$PROJECT_DIR$/panel/konteyner-harita.php" />
+        <option value="$PROJECT_DIR$/panel/tum-konteyner-harita.php" />
+        <option value="$PROJECT_DIR$/deneme2.php" />
+        <option value="$PROJECT_DIR$/deneme.php" />
+        <option value="$PROJECT_DIR$/denemeErdem.js" />
+        <option value="$PROJECT_DIR$/panel/son.php" />
+        <option value="$PROJECT_DIR$/denemeErdem.php" />
+        <option value="$PROJECT_DIR$/arduino/index.php" />
+        <option value="$PROJECT_DIR$/panel/PythonFirebasePHPCronNotificationWebService.php" />
+        <option value="$PROJECT_DIR$/include/main.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DRa1856.46025/index.html" />
+        <option value="$PROJECT_DIR$/tezindex2.php" />
+        <option value="$PROJECT_DIR$/indexyeni.php" />
+        <option value="$PROJECT_DIR$/tezindex.php" />
+        <option value="$PROJECT_DIR$/tezindex3.php" />
+        <option value="$PROJECT_DIR$/tezindex4.php" />
+        <option value="$PROJECT_DIR$/dist/js/app.js" />
+        <option value="$PROJECT_DIR$/dist/css/main.css" />
+        <option value="$PROJECT_DIR$/tezindex6.php" />
+        <option value="$PROJECT_DIR$/tezindex5.php" />
+        <option value="$PROJECT_DIR$/bower_components/font-awesome/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/rota2.php" />
+        <option value="$PROJECT_DIR$/asdfasdf.php" />
+        <option value="$PROJECT_DIR$/rota3.php" />
+        <option value="$PROJECT_DIR$/rota4.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/includeTemplate/menu.php" />
+        <option value="$PROJECT_DIR$/includeTemplate/header.php" />
+        <option value="$PROJECT_DIR$/tum-konteyner-harita.php" />
+        <option value="$PROJECT_DIR$/rota.php" />
+        <option value="$PROJECT_DIR$/konteyner-harita.php" />
+        <option value="$PROJECT_DIR$/PythonFirebasePHPCronNotificationWebService.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/bower_components/Flot/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/ckeditor/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/jquery-slimscroll/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/select2/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="76" />
+    <option name="y" value="7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AKONSIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\AKILLICOPKONTEYNERIBILGISISTEMI" />
+      <recent name="C:\wamp64\www\AKILLICOPKONTEYNERIBILGISISTEMI\panel" />
+      <recent name="C:\wamp64\www\AKILLICOPKONTEYNERIBILGISISTEMI\panel\includeTemplate" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\AKILLICOPKONTEYNERIBILGISISTEMI\panel" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f6d09a4-1e3c-426e-9bf8-d4d3366b7fee" name="Default Changelist" comment="" />
+      <created>1547431425024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547431425024</updated>
+      <workItem from="1547431426343" duration="8240000" />
+      <workItem from="1547497602015" duration="7124000" />
+      <workItem from="1547509372900" duration="112000" />
+      <workItem from="1547513344049" duration="599000" />
+      <workItem from="1547514148260" duration="612000" />
+      <workItem from="1547590765463" duration="653000" />
+      <workItem from="1548353950063" duration="1118000" />
+      <workItem from="1549141507378" duration="4697000" />
+      <workItem from="1550192085413" duration="55000" />
+      <workItem from="1550192611113" duration="39000" />
+      <workItem from="1552570772630" duration="5958000" />
+      <workItem from="1552679360922" duration="1665000" />
+      <workItem from="1552695306528" duration="614000" />
+      <workItem from="1552701305259" duration="1537000" />
+      <workItem from="1552743513181" duration="158000" />
+      <workItem from="1552949746011" duration="7484000" />
+      <workItem from="1553028892545" duration="5484000" />
+      <workItem from="1553087215939" duration="1626000" />
+      <workItem from="1553199376297" duration="22000" />
+      <workItem from="1553376782203" duration="13026000" />
+      <workItem from="1553450835333" duration="4159000" />
+      <workItem from="1553482394654" duration="9484000" />
+      <workItem from="1553613392338" duration="809000" />
+      <workItem from="1553905473070" duration="812000" />
+      <workItem from="1554025952114" duration="422000" />
+      <workItem from="1554026692206" duration="13795000" />
+      <workItem from="1554480783134" duration="7582000" />
+      <workItem from="1554779476593" duration="599000" />
+      <workItem from="1554851747520" duration="2103000" />
+      <workItem from="1554921028082" duration="1201000" />
+      <workItem from="1555110453244" duration="25618000" />
+      <workItem from="1555315977072" duration="31939000" />
+      <workItem from="1555524783699" duration="17496000" />
+      <workItem from="1555609601523" duration="21587000" />
+      <workItem from="1556101687139" duration="3214000" />
+      <workItem from="1556545476977" duration="4659000" />
+      <workItem from="1556839114533" duration="1834000" />
+      <workItem from="1556848041956" duration="12268000" />
+      <workItem from="1557069020125" duration="40000" />
+      <workItem from="1557176498418" duration="1000" />
+      <workItem from="1557263112563" duration="1382000" />
+      <workItem from="1557608007186" duration="65833000" />
+      <workItem from="1557757037992" duration="2156000" />
+      <workItem from="1557762310236" duration="2284000" />
+      <workItem from="1557774787116" duration="4485000" />
+      <workItem from="1557829205033" duration="21833000" />
+      <workItem from="1558056395376" duration="4945000" />
+      <workItem from="1558123683965" duration="2848000" />
+      <workItem from="1558734983652" duration="968000" />
+      <workItem from="1558737901289" duration="748000" />
+      <workItem from="1591778447132" duration="69000" />
+      <workItem from="1591778544833" duration="1075000" />
+      <workItem from="1591779667239" duration="44000" />
+      <workItem from="1591779971938" duration="113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="329228000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.124200426" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010846" side_tool="true" weight="0.15245202" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="12" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.15245202" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" id="Favorites" order="2" sideWeight="0.5010846" side_tool="true" weight="0.15245202" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="12" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index2.php" />
+    <entry file="file://$PROJECT_DIR$/denemeErdem.php" />
+    <entry file="file://$PROJECT_DIR$/panel/arduino/google-service-account.json" />
+    <entry file="file://$PROJECT_DIR$/panel/arduino/index.php" />
+    <entry file="file://$PROJECT_DIR$/panel/kaynak.html" />
+    <entry file="file://$PROJECT_DIR$/panel/PythonFirebasePHPCronNotificationWebService.php" />
+    <entry file="file://$PROJECT_DIR$/include/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa1856.3856/js/index.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa1856.46025/index.html" />
+    <entry file="file://$PROJECT_DIR$/dist/js/pages/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/adminlte.min.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2778" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexyeni.php" />
+    <entry file="file://$PROJECT_DIR$/tezindex2.php" />
+    <entry file="file://$PROJECT_DIR$/tezindex.php" />
+    <entry file="file://$PROJECT_DIR$/tezindex3.php" />
+    <entry file="file://$PROJECT_DIR$/tezindex4.php" />
+    <entry file="file://$PROJECT_DIR$/bower_components/font-awesome/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="30595" selection-start-line="3" selection-start-column="30595" selection-end-line="3" selection-end-column="30595" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/less/skins/skin-red.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/alt/AdminLTE-without-plugins.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4126" selection-start-line="6" selection-start-column="4126" selection-end-line="6" selection-end-column="4126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/AdminLTE.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4122" selection-start-line="6" selection-start-column="4122" selection-end-line="6" selection-end-column="4122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tezindex5.php" />
+    <entry file="file://$PROJECT_DIR$/dist/js/index2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/demo.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tezindex6.php" />
+    <entry file="file://$PROJECT_DIR$/dist/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asdfasdf.php" />
+    <entry file="file://$PROJECT_DIR$/rota2.php" />
+    <entry file="file://$PROJECT_DIR$/rota4.php" />
+    <entry file="file://$PROJECT_DIR$/rota3.php" />
+    <entry file="file://$PROJECT_DIR$/kaynak.html" />
+    <entry file="file://$PROJECT_DIR$/includeTemplate/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="58" column="52" lean-forward="true" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includeTemplate/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includeTemplate/sagpanel.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includeTemplate/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/konteyner-harita.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="73" column="89" selection-start-line="73" selection-start-column="89" selection-end-line="73" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonFirebasePHPCronNotificationWebService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="92" column="37" selection-start-line="92" selection-start-column="37" selection-end-line="92" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rota.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tum-konteyner-harita.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="114" column="94" selection-start-line="114" selection-start-column="94" selection-end-line="114" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="145" column="56" selection-start-line="145" selection-start-column="56" selection-end-line="145" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/token-generator/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/token-generator/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-231" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/php-jwt/src/BeforeValidException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/php-jwt/src/ExpiredException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/php-jwt/src/JWT.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3366" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino/vendor/firebase/php-jwt/src/SignatureInvalidException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino/vendor/composer/installed.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arduino/vendor/composer/ClassLoader.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
